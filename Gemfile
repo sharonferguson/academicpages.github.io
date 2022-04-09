@@ -25,5 +25,3 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
-
-gem 'http_parser.rb', git: "https://github.com/tmm1/http_parser.rb.git"
