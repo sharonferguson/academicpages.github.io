@@ -7,10 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<object data="files/CV_FergusonSharon (1).pdf" width="750px" height="750px">
-    <embed src="files/CV_FergusonSharon (1).pdf">
-    </embed>
-</object>
+[Download my CV here](http://sharonferguson.github.io/files/CV_FergusonSharon (1).pdf)
 
 <!-- {% include base_path %}
 
