@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year Ph.D. student at the University of Toronto. I work in [Ready Lab](https://readylab.mie.utoronto.ca/) under Dr. Alison Olechowski and I am also an [Ethics of AI graduate research fellow](https://ethics.utoronto.ca/ethics-of-ai-in-context-eaic4e/) with Centre for Ethics. 
+I am a 2nd year Ph.D. student at the University of Toronto. I work at the [Ready Lab](https://readylab.mie.utoronto.ca/) under Dr. Alison Olechowski and I am also an [Ethics of AI graduate research fellow](https://ethics.utoronto.ca/ethics-of-ai-in-context-eaic4e/) with the university's Centre for Ethics. 
 
-My research looks at how engineers are using new enterprise communication tools such as Slack and Microsoft Teams, and how we can use natural language processing tools and the mass amounts of data that are created every day to learn about engineering design. My previous work looked at how we can identify cycles of convergence and divergence within the engineering design process using Topic Modelling. Currently, I am analyzing Slack communication using a gender lens: what gendered communication patterns exist on these platforms, and do they impact how individuals are treated? Moving forward, I hope to investigate how these platforms help or hinder idea spread and innovation within engineering design teams. 
+My research looks at how engineers are using new enterprise communication tools such as Slack and Microsoft Teams, and how we can use natural language processing tools and the mass amounts of data that are created every day to learn about engineering design. My recent work looked at how we can identify cycles of convergence and divergence within the engineering design process using Topic Modelling. Currently, I am analyzing Slack communication using a gender lens: what gendered communication patterns exist on these platforms, and do they impact how individuals are treated? Moving forward, I hope to investigate how these platforms help or hinder idea spread and innovation within engineering design teams. 
 
 I also lead a project investigating student persistence in Machine Learning and Artificial Intelligence, supported by the Ethics of AI lab at University of Toronto's Centre for Ethics. I will present the first part of this project at the American Society for Engineering Education Conference in June 2022, and you can see a summary of this work in [video form](https://www.youtube.com/watch?v=eBLuq3DTOGA) or [podcast form](https://open.spotify.com/episode/6Idcx23R2xSbHKRSwY7lXA?si=Yze4V9u8R6CqQaRVMRWViQ).
 
@@ -18,11 +18,11 @@ I also work as a research assistant under Dr. Anastasia Kuzminykh at the [COoKIE
 
 I am passionate about increasing diversity in Engineering, and currently serve as the VP of Finance for the Graduate Society of Women Engineers.
 
-I hold a bachelor of applied science in Industrial Engineering from the University of Toronto, and have work experience in the energy industry.
+I hold a Bachelor of Applied Science in Industrial Engineering from the University of Toronto, and have work experience in the energy industry.
 
 ## News
 
-- **May 2022:** I was selected as a Graduate Fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/)
+<!-- - **May 2022:** I was selected as a Graduate Fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/) -->
 - **March 2022:** I was invited to present a talk titled ["Advancing a Model of Students’ Intentional Persistence in Machine Learning and Artificial Intelligence"](https://www.youtube.com/watch?v=eBLuq3DTOGA) at the Centre for Ethics, Ethics of AI in Context: Emerging Scholars speaker series
 - **March 2022:** My paper "Advancing a Model of Students’ Intentional
 Persistence in Machine Learning and Artificial Intelligence" was accepted for publication at the 2022 American Society of Engineering Education Conference

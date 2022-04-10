@@ -19,7 +19,7 @@ Engineering Education annual conference, 2022
 
 - Ferguson, S., Lai, K., Chen, J., Faidi, S., Leonardo, K., Olechowski, A. "'Why couldn’t we do this more
 often?': exploring the feasibility of virtual and distributed work in product design engineering". Under
-second round of review at Research in Engineering Design, 2021
+second round of review, 2021
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=TXXTPIkAAAAJ&hl=en) 
 
