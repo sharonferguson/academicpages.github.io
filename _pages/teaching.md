@@ -15,8 +15,4 @@ author_profile: true
 
 ## Guest Lectures
 - **TEP1502: Leadership in Product Design** (Fall 2021)
-<!-- {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->

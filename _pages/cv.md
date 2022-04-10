@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
-\includegraphics[page=2]{CV_FergusonSharon (1).pdf}
+<object data="CV_FergusonSharon (1).pdf" width="750px" height="750px">
+    <embed src="CV_FergusonSharon (1).pdf">
+    </embed>
+</object>
 
 <!-- {% include base_path %}
 
