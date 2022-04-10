@@ -117,13 +117,13 @@
 
   /* social buttons */
 
-  $social:
+  $social-test:
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color);
 
-  @each $socialnetwork, $color in $social {
+  @each $socialnetwork, $color in $social-test {
     &--#{$socialnetwork} {
       background-color: $color;
 
