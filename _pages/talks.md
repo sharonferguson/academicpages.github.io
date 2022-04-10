@@ -10,18 +10,20 @@ author_profile: true
 ### 2022
 - University of Toronto Centre For Ethics: Ethics of AI Emerging Scholars Series: “Advancing a Model
 of Students’ Intentional Persistence in Machine Learning and Artificial Intelligence” presenter,
-March 2022.
+March 2022. [Watch here.](https://www.youtube.com/watch?v=eBLuq3DTOGA)
 
 ## Conference Presentations Without Proceedings
 
 ### 2021
 - Ferguson, S., Olechowski, A. “"Why couldn’t we do this more often?": exploring the feasibility of virtual and distributed work in product design engineering” ASME IDETC Conference, Lightning Talk, 2021.
+
 - Ferguson, S., Olechowski, A. “Exploring Short Text Topic Models in the Context of Product Design
 Enterprise Social Network Messaging” University of Toronto Engineering Research Conference, Oral Presentation, 2021. Awarded First Place in Data Analytics, AI, and Robotics section
 
 ### 2020
-Ferguson, S., Olechowski, A. “Towards the Future of Work from Home via Interviews with Engineering Designers” McMaster Engineering Technology Research and Innovation Conference, 2020.
-Ferguson, S., Dusciuc, S., Vella, M., Sivaparamanantha, Y. “Jump Detection and Metric Extraction using Machine Learning: A Case Study in Snowboarding” SPort INnovation (SPIN) Summit, 2020
+- Ferguson, S., Olechowski, A. “Towards the Future of Work from Home via Interviews with Engineering Designers” McMaster Engineering Technology Research and Innovation Conference, 2020.
+
+- Ferguson, S., Dusciuc, S., Vella, M., Sivaparamanantha, Y. “Jump Detection and Metric Extraction using Machine Learning: A Case Study in Snowboarding” SPort INnovation (SPIN) Summit, 2020
 
 <!-- {% if site.talkmap_link == true %}
 
