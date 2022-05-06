@@ -12,7 +12,7 @@ author_profile: true
 of Students’ Intentional Persistence in Machine Learning and Artificial Intelligence” presenter,
 March 2022. [Watch here.](https://www.youtube.com/watch?v=eBLuq3DTOGA)
 
-## Conference Presentations Without Proceedings
+## Conference Presentations
 
 ### 2021
 - Ferguson, S., Olechowski, A. “"Why couldn’t we do this more often?": exploring the feasibility of virtual and distributed work in product design engineering” ASME IDETC Conference, Lightning Talk, 2021.

@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV here](http://sharonferguson.github.io/files/CV_FergusonSharon (1).pdf)
+[View my CV here](http://sharonferguson.github.io/files/CV_FergusonSharon (2).pdf)
 
 <!-- {% include base_path %}
 
