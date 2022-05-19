@@ -23,7 +23,7 @@ Enterprise Social Network Messaging” University of Toronto Engineering Researc
 ### 2020
 - Ferguson, S., Olechowski, A. “Towards the Future of Work from Home via Interviews with Engineering Designers” McMaster Engineering Technology Research and Innovation Conference, 2020.
 
-- Ferguson, S., Dusciuc, S., Vella, M., Sivaparamanantha, Y. “Jump Detection and Metric Extraction using Machine Learning: A Case Study in Snowboarding” SPort INnovation (SPIN) Summit, 2020
+- Ferguson, S., Dusciuc, S., Vella, M., Sivaparamanantha, Y. Tsai, M-C., Chan, T. “Jump Detection and Metric Extraction using Machine Learning: A Case Study in Snowboarding” SPort INnovation (SPIN) Summit, 2020
 
 <!-- {% if site.talkmap_link == true %}
 

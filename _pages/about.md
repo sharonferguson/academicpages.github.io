@@ -23,6 +23,7 @@ I hold a Bachelor of Applied Science in Industrial Engineering from the Universi
 ## News
 
 <!-- - **May 2022:** I was selected as a Graduate Fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/) -->
+- **May 2022:** My paper "'Why couldn't we do this more often?': Exploring the Feasibility of Virtual and Distributed Work for Product Design Engineers" was accepted for publication at the in Research in Engineering Design
 - **April 2022:** I was awarded a Canada Graduate Scholarship - Doctoral from NSERC
 - **March 2022:** I was invited to present a talk titled ["Advancing a Model of Students’ Intentional Persistence in Machine Learning and Artificial Intelligence"](https://www.youtube.com/watch?v=eBLuq3DTOGA) at the Centre for Ethics, Ethics of AI in Context: Emerging Scholars speaker series
 - **March 2022:** My paper "Advancing a Model of Students’ Intentional
