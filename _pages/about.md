@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year Ph.D. student at the University of Toronto. I work at the [Ready Lab](https://readylab.mie.utoronto.ca/) under Dr. Alison Olechowski and I am also an [Ethics of AI graduate research fellow](https://ethics.utoronto.ca/ethics-of-ai-in-context-eaic4e/) with the university's Centre for Ethics. My doctoral work is supported by the National Science and Engineering Research Council (NSERC).
+I am a 2nd year Ph.D. student at the University of Toronto. I work at the [Ready Lab](https://readylab.mie.utoronto.ca/) under Dr. Alison Olechowski and I am also a graduate research fellow with the university's [Centre for Ethics, Ethics of AI lab](https://ethics.utoronto.ca/ethics-of-ai-in-context-eaic4e/) and the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/). My doctoral work is supported by the National Science and Engineering Research Council (NSERC).
 
 My research looks at how engineers are using new enterprise communication tools such as Slack and Microsoft Teams, and how we can use natural language processing tools and the mass amounts of data that are created every day to learn about engineering design. My recent work looked at how we can identify cycles of convergence and divergence within the engineering design process using Topic Modelling. Currently, I am analyzing Slack communication using a gender lens: what gendered communication patterns exist on these platforms, and do they impact how individuals are treated? Moving forward, I hope to investigate how these platforms help or hinder idea spread and innovation within engineering design teams. 
 

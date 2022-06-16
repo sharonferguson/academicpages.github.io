@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2022
+
+- Ferguson, S., Cheng, K., Adolphe, L., Van de Zande, G., Wallace, D., Olechowski, A. "Communication
+Patterns in Engineering Enterprise Social Networks: An Exploratory Analysis using Short Text Topic
+Modelling," Design Science 8 (2022), e18. [View here](http://sharonferguson.github.io/files/communication-patterns-in-engineering-enterprise-social-networks-an-exploratory-analysis-using-short-text-topic-modelling.pdf)
+
 ## Forthcoming
 
 - Ferguson, S., Mao, K., Magarian, J., Olechowski, A. "Advancing a Model of Students’ Intentional
@@ -14,9 +20,7 @@ Engineering Education annual conference, 2022
 - Ferguson, S., Lai, K., Chen, J., Faidi, S., Leonardo, K., Olechowski, A. "'Why couldn’t we do this more
 often?': exploring the feasibility of virtual and distributed work in product design engineering". Accepted at Research in Engineering Design, 2021
 
-- Ferguson, S., Cheng, K., Adolphe, L., Van de Zande, G., Wallace, D., Olechowski, A. "Communication
-Patterns in Engineering Enterprise Social Networks: An Exploratory Analysis using Short Text Topic
-Modelling," Accepted at Design Science, 2021
+
 
 
 
