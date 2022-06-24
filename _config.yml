@@ -89,6 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=TXXTPIkAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  medium     :    "https://medium.com/@sharonashferguson/"
   uri              :
   bitbucket        :
   codepen          :
@@ -187,6 +188,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+
 
 
 # Defaults

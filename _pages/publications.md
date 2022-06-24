@@ -7,9 +7,12 @@ author_profile: true
 
 ## 2022
 
+- Ferguson, S., Lai, K., Chen, J., Faidi, S., Leonardo, K., Olechowski, A. "'Why couldn’t we do this more
+often?': exploring the feasibility of virtual and distributed work in product design engineering". Res Eng Design (2022). [View here](https://doi.org/10.1007/s00163-022-00391-2)
+
 - Ferguson, S., Cheng, K., Adolphe, L., Van de Zande, G., Wallace, D., Olechowski, A. "Communication
 Patterns in Engineering Enterprise Social Networks: An Exploratory Analysis using Short Text Topic
-Modelling," Design Science 8 (2022), e18. [View here](http://sharonferguson.github.io/files/communication-patterns-in-engineering-enterprise-social-networks-an-exploratory-analysis-using-short-text-topic-modelling.pdf)
+Modelling," Design Science 8 (2022), e18. [View article here ](http://sharonferguson.github.io/files/communication-patterns-in-engineering-enterprise-social-networks-an-exploratory-analysis-using-short-text-topic-modelling.pdf) or [view my summary article on Medium](https://medium.com/@sharonashferguson/how-do-product-design-teams-converge-on-a-product-idea-9ec9e80a8fd6)
 
 ## Forthcoming
 
@@ -17,8 +20,6 @@ Modelling," Design Science 8 (2022), e18. [View here](http://sharonferguson.gith
 Persistence in Machine Learning and Artificial Intelligence." Accepted to the American Society of
 Engineering Education annual conference, 2022
 
-- Ferguson, S., Lai, K., Chen, J., Faidi, S., Leonardo, K., Olechowski, A. "'Why couldn’t we do this more
-often?': exploring the feasibility of virtual and distributed work in product design engineering". Accepted at Research in Engineering Design, 2021
 
 
 
