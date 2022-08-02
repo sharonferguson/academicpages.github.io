@@ -54,6 +54,7 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+google_analytics: G-W3L7P9VFX3
 
 # Social Sharing
 twitter:
@@ -78,7 +79,7 @@ analytics:
     tracking_id          : G-W3L7P9VFX3
 
 
-google-analytics: G-W3L7P9VFX3
+
 
 
 # Site Author
