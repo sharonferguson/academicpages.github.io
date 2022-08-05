@@ -1,6 +1,6 @@
 ---
 layout: archieve
-title: ""
+title: "Blog Posts"
 permalink: /blog/
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ redirect_from:
 {% endif %}
 
 <div id="main" role="main"> -->
-{% include sidebar.html %}
+<!-- {% include sidebar.html %} -->
 
   <!-- <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
@@ -33,3 +33,5 @@ redirect_from:
 
 
 [View my articles on Medium](https://medium.com/@sharonashferguson/)
+
+{% include base_path %}
