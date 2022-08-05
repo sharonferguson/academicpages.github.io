@@ -7,52 +7,9 @@ redirect_from:
   - /blog
 ---
 
-<script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
 
-<body
+<blockquote class="embedly-card"><h4><a href="https://medium.com/user-experience-design-1/how-do-product-design-teams-converge-on-a-product-idea-9ec9e80a8fd6">How do product design teams converge on an idea?</a></h4><p>Is it possible to track, and in the future, guide, a design team's activities by analyzing their digital communication? That was the question I attempted to answer in the first publication of my PhD, with the specific aim of identifying convergence on a design idea.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-  <div id="retainable-rss-embed" 
-  data-rss="https://medium.com/feed/@sharonashferguson"
-  data-maxcols="3" 
-  data-layout="grid" 
-  data-poststyle="inline" 
-  data-readmore="Read the rest" 
-  data-buttonclass="btn btn-primary" 
-  data-offset="-100"></div>
 
-</body>
-
-<!-- <body>
-  <div id="myDIV" class="header">
-  </div>
-  <ul id="myUL">
-  </ul> -->
-  <!-- <script>
-        // call the function to start execution
-      get();
-
-         <!-- // function that call the API to get the JSON data -->
-      async function get() {
-        var r = await fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@sharonashferguson');
-        var data = await r.json();
-
-            <!-- // display your title in header -->
-        document.getElementById("myDIV").textContent = data['feed']['title'];
-
-            <!-- // iterate the array of items and call the newElement function which add the new list item -->
-        for (var i = 0; i < data['items'].length; i++) {
-            newElement(data['items'][i]['title']);
-        }
-    }
-
-        <!-- // Create a new list item when clicking on the "Add" button -->
-      function newElement(textContent) {
-        var li = document.createElement("li");
-        var t = document.createTextNode(textContent);
-        li.appendChild(t);
-        document.getElementById("myUL").appendChild(li);
-    }
-</script> -->
-<!-- </body> -->
-
-<!-- [View my articles on Medium](https://medium.com/@sharonashferguson/)  -->
+[View my articles on Medium](https://medium.com/@sharonashferguson/)
