@@ -7,7 +7,7 @@ redirect_from:
   - /blog
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+<!-- {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
 
@@ -17,16 +17,16 @@ redirect_from:
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
-  {% include sidebar.html %}
+<div id="main" role="main"> -->
+{% include sidebar.html %}
 
-  <div class="archive">
+  <!-- <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
   </div>
-</div>
+</div> -->
 
 <blockquote class="embedly-card"><h4><a href="https://medium.com/user-experience-design-1/how-do-product-design-teams-converge-on-a-product-idea-9ec9e80a8fd6">How do product design teams converge on an idea?</a></h4><p>Is it possible to track, and in the future, guide, a design team's activities by analyzing their digital communication? That was the question I attempted to answer in the first publication of my PhD, with the specific aim of identifying convergence on a design idea.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
