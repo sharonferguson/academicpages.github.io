@@ -6,5 +6,39 @@ author_profile: true
 redirect_from:
   - /blog
 ---
-{% include blog2.html %}
-[View my articles on Medium](https://medium.com/@sharonashferguson/) 
+
+
+<body>
+  <div id="myDIV" class="header">
+  </div>
+  <ul id="myUL">
+  </ul>
+  <script>
+        // call the function to start execution
+      get();
+
+         <!-- // function that call the API to get the JSON data -->
+      async function get() {
+        var r = await fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@sharonashferguson');
+        var data = await r.json();
+
+            <!-- // display your title in header -->
+        document.getElementById("myDIV").textContent = data['feed']['title'];
+
+            <!-- // iterate the array of items and call the newElement function which add the new list item -->
+        for (var i = 0; i < data['items'].length; i++) {
+            newElement(data['items'][i]['title']);
+        }
+    }
+
+        <!-- // Create a new list item when clicking on the "Add" button -->
+      function newElement(textContent) {
+        var li = document.createElement("li");
+        var t = document.createTextNode(textContent);
+        li.appendChild(t);
+        document.getElementById("myUL").appendChild(li);
+    }
+</script>
+</body>
+
+<!-- [View my articles on Medium](https://medium.com/@sharonashferguson/)  -->
