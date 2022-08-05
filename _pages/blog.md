@@ -7,13 +7,27 @@ redirect_from:
   - /blog
 ---
 
+<script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
+
+<body
+
+  <div id="retainable-rss-embed" 
+  data-rss="https://medium.com/feed/@sharonashferguson"
+  data-maxcols="3" 
+  data-layout="grid" 
+  data-poststyle="inline" 
+  data-readmore="Read the rest" 
+  data-buttonclass="btn btn-primary" 
+  data-offset="-100"></div>
+
+</body>
 
 <!-- <body>
   <div id="myDIV" class="header">
   </div>
   <ul id="myUL">
   </ul> -->
-  <script>
+  <!-- <script>
         // call the function to start execution
       get();
 
@@ -38,7 +52,7 @@ redirect_from:
         li.appendChild(t);
         document.getElementById("myUL").appendChild(li);
     }
-</script>
+</script> -->
 <!-- </body> -->
 
 <!-- [View my articles on Medium](https://medium.com/@sharonashferguson/)  -->
