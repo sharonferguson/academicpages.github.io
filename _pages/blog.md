@@ -1,10 +1,10 @@
 ---
 layout: archieve
 title: "Blog Posts"
-permalink: /blog/
+permalink: /blog2/
 author_profile: true
 redirect_from:
-  - /blog
+  - /blog2
 ---
 
 <!-- {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -31,5 +31,3 @@ redirect_from:
 
 
 [View my articles on Medium](https://medium.com/@sharonashferguson/)
-
-
