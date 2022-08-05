@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-<body>
+<!-- <body>
   <div id="myDIV" class="header">
   </div>
   <ul id="myUL">
-  </ul>
+  </ul> -->
   <script>
         // call the function to start execution
       get();
@@ -39,6 +39,6 @@ redirect_from:
         document.getElementById("myUL").appendChild(li);
     }
 </script>
-</body>
+<!-- </body> -->
 
 <!-- [View my articles on Medium](https://medium.com/@sharonashferguson/)  -->
