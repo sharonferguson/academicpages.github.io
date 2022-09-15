@@ -22,7 +22,9 @@ Engineering Education annual conference, 2022 [View here](https://peer.asee.org/
 
 
 
-<!-- ## Under Review -->
+## Under Review
+
+- Ferguson, S., Akemi, P., Alexander, R., Kuzminykh, A. Can You Explain?: A Four-Layer Framework of Human and AI Decision Explanation Strategies Submitted to ACM CHI Conference on Human Factors in Computing Systems, 2022. 
 
 
 
