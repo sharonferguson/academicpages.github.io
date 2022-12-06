@@ -8,6 +8,11 @@ author_profile: true
 ## Invited Talks
 
 ### 2022
+-Institute for Leadership Education in Engineering (ILead) Community of Practice Conference on the
+Future of Work. “Engineering Communication in Hybrid Teams” presenter, scheduled November
+2022.
+- Massachusetts Institute of Technology 2.009 Product Design Processes: Slack Tutorial. “Using Slack
+in Design Teams: Evidence from Three Research Projects” presenter, September 2022.
 - University of Toronto Centre For Ethics: Ethics of AI Emerging Scholars Series: “Advancing a Model
 of Students’ Intentional Persistence in Machine Learning and Artificial Intelligence” presenter,
 March 2022. [Watch here.](https://www.youtube.com/watch?v=eBLuq3DTOGA)
