@@ -23,6 +23,7 @@ I hold a Bachelor of Applied Science in Industrial Engineering from the Universi
 ## News
 
 - **December 2022:** We are presenting our comparative analysis of human and AI explanation text at the Neurips Workshop on Human Centered AI on December 9th. 
+- **November 2022:** I gave a talk on hybrid and virtual engineering communication at the ILead [Community of Practice](https://www.engineeringleaders.ca/about) Conference. 
 - **November 2022:** Our short paper "Measuring Gendered Communication Patterns on Enterprise Communication Platforms" was accepted as a poster for the ACM Conference on Group Work in January 2023.
 - **June 2022:** Our paper "Communication
 Patterns in Engineering Enterprise Social Networks: An Exploratory Analysis using Short Text Topic Modelling" is now live online! Read it [here](https://www.cambridge.org/core/journals/design-science/article/communication-patterns-in-engineering-enterprise-social-networks-an-exploratory-analysis-using-short-text-topic-modelling/6E4CCBE9913E761B846A5C0F187279CB).
