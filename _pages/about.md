@@ -22,6 +22,7 @@ I hold a Bachelor of Applied Science in Industrial Engineering from the Universi
 
 ## News
 
+- **January 2023:** I presented a poster entitled "Measuring Gendered Communication Patterns on Enterprise Communication Platforms" at the 2023 ACM Conference on Supporting Group Work.
 - **December 2022:** We are presenting our comparative analysis of human and AI explanation text at the Neurips Workshop on Human Centered AI on December 9th. 
 - **November 2022:** I gave a talk on hybrid and virtual engineering communication at the ILead [Community of Practice](https://www.engineeringleaders.ca/about) Conference. 
 - **November 2022:** Our short paper "Measuring Gendered Communication Patterns on Enterprise Communication Platforms" was accepted as a poster for the ACM Conference on Group Work in January 2023.
