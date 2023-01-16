@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2023
+
+- Ferguson, S. Olechowski, A. "Measuring Gendered Communication Patterns on Enterprise Communication Platforms". ACM Conference on Supporting Group Work, Poster, 2023.[View here](https://dl.acm.org/doi/10.1145/3565967.3570981)
+
 ## 2022
 
 - Ferguson, S., Lai, K., Chen, J., Faidi, S., Leonardo, K., Olechowski, A. "'Why couldn’t we do this more often?': exploring the feasibility of virtual and distributed work in product design engineering". Res Eng Design (2022). [View article here](https://doi.org/10.1007/s00163-022-00391-2) or [view my summary article on Medium](https://medium.com/user-experience-design-1/can-physical-product-designers-work-from-home-cf95b6bfe21d)
