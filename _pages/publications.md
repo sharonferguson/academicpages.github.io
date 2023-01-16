@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2023
 
-- Ferguson, S. Olechowski, A. "Measuring Gendered Communication Patterns on Enterprise Communication Platforms". ACM Conference on Supporting Group Work, Poster, 2023.[View here](https://dl.acm.org/doi/10.1145/3565967.3570981)
+- Ferguson, S. Olechowski, A. "Measuring Gendered Communication Patterns on Enterprise Communication Platforms". ACM Conference on Supporting Group Work, Poster, 2023. [View here](https://dl.acm.org/doi/10.1145/3565967.3570981)
 
 ## 2022
 
