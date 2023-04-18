@@ -26,9 +26,13 @@ Engineering Education annual conference, 2022 [View here](https://peer.asee.org/
 
 
 
-## Under Review
+## Accepted
 
-- Ferguson, S., Akemi, P., Alexander, R., Kuzminykh, A. Can You Explain?: A Four-Layer Framework of Human and AI Decision Explanation Strategies Submitted to ACM CHI Conference on Human Factors in Computing Systems, 2022. 
+- Flus, M., Ferguson, S., Olechowski, A. Let’s take this offline: a thematic analysis of virtual conflict in hybrid collaborative design teams. Accepted to International Conference on Engineering Design, 2022. 
+
+- Ferguson, S., Akemi, P., Kuzminykh, A. Something Borrowed: Exploring the Influence of AI-Generated Explanation Text on the Composition of Human Explanations. Accepted to the ACM CHI Conference on Human Factors in Computing Systems, 2023. 
+
+- Ferguson, S., Olechowski, A. Are We Equal Online?: An Investigation of Gendered Language Patterns and Message Engagement on Enterprise Communication Platforms. Accepted to the ACM Conference on Computer Supported Cooperative Work and Social Computing, 2023.
 
 
 

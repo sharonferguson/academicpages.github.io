@@ -14,4 +14,5 @@ author_profile: true
 - **MIE242: Psychology for Engineers** Teaching Assistant (Fall 2020, 2021, 2022) *Nominated for Teaching Assistant Award*
 
 ## Guest Lectures
+- **MIE459: Organization Design** Future of Work Lecture (Winter 2023)
 - **TEP1502: Leadership in Product Design** (Fall 2021)
