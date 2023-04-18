@@ -23,7 +23,7 @@ I hold a Bachelor of Applied Science in Industrial Engineering from the Universi
 ## News
 - **June 2023:** I will start my role as a Future of Work PhD Reserarch Intern at Slack!
 - **April 2023:** We will be presenting a poster at CHI 2023 in Hamburg, Germany!
-- **March 2023:** Our paper "Are We Equal Online?: An Investigation of Gendered Language Patterns and Message Engagement on Enterprise Communication Platforms" wsa accepted to the 2023 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW).
+- **March 2023:** Our paper "Are We Equal Online?: An Investigation of Gendered Language Patterns and Message Engagement on Enterprise Communication Platforms" was accepted to the 2023 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW).
 - **February 2023:** Our late-breaking work paper "Something Borrowed: Exploring the Influence of AI-Generated Explanation Text on the Composition of Human Explanations" was accepted to the 2023 ACM Conference on Human Factors in Computing Systems (CHI) conference. 
 - **February 2023:** Our paper "Let’s take this offline: a thematic analysis of virtual conflict in hybrid collaborative design teams" was accepted to the International Conference on Engineering Design 2023 Conference.
 - **January 2023:** I presented a poster entitled "Measuring Gendered Communication Patterns on Enterprise Communication Platforms" at the 2023 ACM Conference on Supporting Group Work.
