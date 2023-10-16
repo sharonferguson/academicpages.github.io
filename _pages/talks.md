@@ -19,6 +19,11 @@ March 2022. [Watch here.](https://www.youtube.com/watch?v=eBLuq3DTOGA)
 
 ## Conference Presentations
 
+### 2023
+- S. Ferguson, A. Olechowski “Enterprise Communication: A Naturalistic, Non-Intrusive Method for
+Studying Design Phenomena” ASME International Design Engineering Technical Conferences
+(IDETC), Lightning Talk, 2023.
+
 ### 2022
 - J. Chen, S. Ferguson, A. Olechowski. Understanding Design Team Conflict on Virtual Communication Platforms. Canadian Design Workshop 2, 2022.
 - S. Ferguson, A. Olechowski. Measuring Gendered Patterns in a Capstone Design Course's Online Communication. Canadian Design Workshop 2, 2022.

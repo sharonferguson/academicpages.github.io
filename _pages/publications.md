@@ -7,7 +7,22 @@ author_profile: true
 
 ## 2023
 
+- Ferguson, S.*, Olechowski, A. Are We Equal Online?: An Investigation of Gendered Language
+Patterns and Message Engagement on Enterprise Communication Platforms Accepted to the ACM
+Conference on Computer Supported Cooperative Work and Social Computing, 2023. [View here](https://dl.acm.org/doi/10.1145/3610173)
+- Flus, M.*, Ferguson, S., Olechowski, A. Let’s take this offline: a thematic analysis of virtual conflict
+in hybrid collaborative design teams International Conference on Engineering Design, 2023. [View here](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/lets-take-this-offline-a-thematic-analysis-of-virtual-conflict-in-hybrid-collaborative-design-teams/3D73C979DBC1816B9D3933D471106FEE)
+- Ferguson, S., van Velzen, E., Olechowski, A. Team and Communication Impacts of Remote Work for
+Complex Aerospace System Development. Systems Engineering, 2023. [View here](https://incose.onlinelibrary.wiley.com/doi/full/10.1002/sys.21716)
+- Mao, K.,Ferguson, S.*, Magarian, J., Olechowski, A. ‘Just a little bit on the outside for the whole
+time’: Social belonging confidence and the persistence of Machine Learning and Artificial
+Intelligence students American Society of Engineering Education Annual Conference, 2023. [View here](https://peer.asee.org/just-a-little-bit-on-the-outside-for-the-whole-time-social-belonging-confidence-and-the-persistence-of-machine-learning-and-artificial-intelligence-students)
+
+- Ferguson, S., Aoyagui, PA., Kuzminykh, A. Something Borrowed: Exploring the Influence of
+AI-Generated Explanation Text on the Composition of Human Explanations ACM CHI Conference on
+Human Factors in Computing Systems, 2023. [View here](https://dl.acm.org/doi/abs/10.1145/3544549.3585727)
 - Ferguson, S. Olechowski, A. "Measuring Gendered Communication Patterns on Enterprise Communication Platforms". ACM Conference on Supporting Group Work, Poster, 2023. [View here](https://dl.acm.org/doi/10.1145/3565967.3570981)
+
 
 ## 2022
 
@@ -28,11 +43,6 @@ Engineering Education annual conference, 2022 [View here](https://peer.asee.org/
 
 ## Accepted
 
-- Flus, M., Ferguson, S., Olechowski, A. Let’s take this offline: a thematic analysis of virtual conflict in hybrid collaborative design teams. Accepted to International Conference on Engineering Design, 2022. 
-
-- Ferguson, S., Akemi, P., Kuzminykh, A. Something Borrowed: Exploring the Influence of AI-Generated Explanation Text on the Composition of Human Explanations. Accepted to the ACM CHI Conference on Human Factors in Computing Systems, 2023. 
-
-- Ferguson, S., Olechowski, A. Are We Equal Online?: An Investigation of Gendered Language Patterns and Message Engagement on Enterprise Communication Platforms. Accepted to the ACM Conference on Computer Supported Cooperative Work and Social Computing, 2023.
 
 
 
