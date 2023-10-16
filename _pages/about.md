@@ -21,6 +21,7 @@ I am passionate about increasing diversity in Engineering, and served as the Pre
 I hold a Bachelor of Applied Science in Industrial Engineering from the University of Toronto, and have work experience in the energy industry.
 
 ## News
+-**October 2023:** I will present my work on gendered communication patterns and engagement on Slack at CSCW 2023!
 -**July 2023:** Out work on conflict on Enterprise Communication Platforms was published in and presented at the [International Conference on Engineering Design](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/lets-take-this-offline-a-thematic-analysis-of-virtual-conflict-in-hybrid-collaborative-design-teams/3D73C979DBC1816B9D3933D471106FEE)
 -**June 2023:** I won the Mechanical and Industrial Engineering Teaching Assistant Award for 2022-2023
 - **June 2023:** Our work on Social Belonging Confidence in Machine Learning and Artificial Intelligence students was presented at the [American Society of Engineering Education Annual Conference 2023](https://peer.asee.org/just-a-little-bit-on-the-outside-for-the-whole-time-social-belonging-confidence-and-the-persistence-of-machine-learning-and-artificial-intelligence-students)
