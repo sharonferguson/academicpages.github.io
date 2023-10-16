@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Teaching
+
 - **MIE459: Organization Design** Course Instructor (Winter 2024)
 
 ## Teaching Assistantships
