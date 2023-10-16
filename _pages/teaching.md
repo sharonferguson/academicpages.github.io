@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##Teaching
+## Teaching
 - **MIE459: Organization Design** Course Instructor (Winter 2024)
 
 ## Teaching Assistantships
