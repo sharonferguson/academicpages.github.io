@@ -5,10 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+- [Accepted] Ferguson, S., Massimi, M. Circle Back Next Week: The Effect of Meeting-Free Weeks on Distributed Workers’ Unstructured Time and Attention Negotiation. Accepted to the ACM Conference on Human Factors in Computing Systems (CHI), 2024. 
+
+
+
 ## 2023
 
 - Ferguson, S.*, Olechowski, A. Are We Equal Online?: An Investigation of Gendered Language
-Patterns and Message Engagement on Enterprise Communication Platforms Accepted to the ACM
+Patterns and Message Engagement on Enterprise Communication Platforms. ACM
 Conference on Computer Supported Cooperative Work and Social Computing, 2023. [View here](https://dl.acm.org/doi/10.1145/3610173)
 - Flus, M.*, Ferguson, S., Olechowski, A. Let’s take this offline: a thematic analysis of virtual conflict
 in hybrid collaborative design teams International Conference on Engineering Design, 2023. [View here](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/lets-take-this-offline-a-thematic-analysis-of-virtual-conflict-in-hybrid-collaborative-design-teams/3D73C979DBC1816B9D3933D471106FEE)
