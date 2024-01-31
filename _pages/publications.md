@@ -49,7 +49,10 @@ Engineering Education annual conference, 2022 [View here](https://peer.asee.org/
 ## Accepted
 - Ferguson, S., Massimi, M. Circle Back Next Week: The Effect of Meeting-Free Weeks on Distributed Workers’ Unstructured Time and Attention Negotiation. Accepted to the ACM Conference on Human Factors in Computing Systems (CHI), 2024. 
 
-* refers to papers accompanied by a conference presentation
+
+
+
+\* refers to papers accompanied by a conference presentation
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=TXXTPIkAAAAJ&hl=en) 
 
