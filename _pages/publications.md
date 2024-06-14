@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2024
-- Ferguson, S., Massimi, M. Circle Back Next Week: The Effect of Meeting-Free Weeks on Distributed Workers’ Unstructured Time and Attention Negotiation. Accepted to the ACM Conference on Human Factors in Computing Systems (CHI), 2024. [View here](https://dl.acm.org/doi/full/10.1145/3613904.3642175)
+- Ferguson, S.*, Massimi, M. Circle Back Next Week: The Effect of Meeting-Free Weeks on Distributed Workers’ Unstructured Time and Attention Negotiation. Accepted to the ACM Conference on Human Factors in Computing Systems (CHI), 2024. [View here](https://dl.acm.org/doi/full/10.1145/3613904.3642175)
 - Ferguson, S., Van de Zande, G., Olechowski, A. No Risk, No Reward: Towards An Automatedn Measure of Psychological Safety from Online Communication. ACM Conference on
 Human Factors in Computing Systems (CHI), Late Breaking Work, 2024. [View here](https://dl.acm.org/doi/full/10.1145/3613905.3650923)
 
