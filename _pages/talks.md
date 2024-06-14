@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Invited Talks
+### 2024
+- Waterloo Management Sciences and Engineering Department Seminar “The Future of Engineering Work: Analyzing Social Dynamics in Novel Workplace Configurations”, March, 2024
 
 ### 2022
 - Institute for Leadership Education in Engineering (ILead) Community of Practice Conference on the
@@ -18,6 +20,8 @@ of Students’ Intentional Persistence in Machine Learning and Artificial Intell
 March 2022. [Watch here.](https://www.youtube.com/watch?v=eBLuq3DTOGA)
 
 ## Conference Presentations
+
+
 
 ### 2023
 - S. Ferguson, A. Olechowski “Enterprise Communication: A Naturalistic, Non-Intrusive Method for
