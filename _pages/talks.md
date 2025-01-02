@@ -8,20 +8,20 @@ author_profile: true
 ## Invited Talks
 ### 2024
 - Waterloo Management Science and Engineering Department Seminar “The Future of Engineering Work: Analyzing Social Dynamics in Novel Workplace Configurations”, March, 2024
+- Massachusetts Institute of Technology 2.009 Product Design Processes: Slack Tutorial. "Using Slack in Design Teams: Evidence from Research" presenter, September 2024.
+- Institute for Leadership Education in Engineering (ILead) Community of Practice Webinar. "Partners in Progress: Effectively Collaborating with AI in the Workplace" presenter, October 2024.
 
 ### 2022
-- Institute for Leadership Education in Engineering (ILead) Community of Practice Conference on the
-Future of Work. “Engineering Communication in Hybrid Teams” presenter,
-2022.
-- Massachusetts Institute of Technology 2.009 Product Design Processes: Slack Tutorial. “Using Slack
-in Design Teams: Evidence from Three Research Projects” presenter, September 2022.
-- University of Toronto Centre For Ethics: Ethics of AI Emerging Scholars Series: “Advancing a Model
-of Students’ Intentional Persistence in Machine Learning and Artificial Intelligence” presenter,
-March 2022. [Watch here.](https://www.youtube.com/watch?v=eBLuq3DTOGA)
+- Institute for Leadership Education in Engineering (ILead) Community of Practice Conference on the Future of Work. “Engineering Communication in Hybrid Teams” presenter, 2022.
+- Massachusetts Institute of Technology 2.009 Product Design Processes: Slack Tutorial. “Using Slack in Design Teams: Evidence from Three Research Projects” presenter, September 2022.
+- University of Toronto Centre For Ethics: Ethics of AI Emerging Scholars Series: “Advancing a Model of Students’ Intentional Persistence in Machine Learning and Artificial Intelligence” presenter, March 2022. [Watch here.](https://www.youtube.com/watch?v=eBLuq3DTOGA)
 
 ## Conference Presentations
 
-
+### 2024
+- Ferguson, S. Aoyagui, PA., Kuzminykh, A. Just Like Me: The Role of Opinions and Personal Experiences in The Perception of Explanations in Subjective Decision-Making. TREW Workshop at CHI 2024, poster paper, 2024. [View here.](https://arxiv.org/abs/2404.12558)
+- Aoyagui, PA., Ferguson, S., Kuzminykh, A. Exploring Subjectivity for more Human-Centric Assessment of Social Biases in Large Language Models. HEAL Workshop at CHI 2024, poster paper, 2024. [View here.](https://arxiv.org/abs/2405.11048)
+- Ferguson, S., Olechowski, A., AI-Augmented Collaboration Feedback: Interaction Challenges and Considerations., Getting Back Together: HCI and Human Factors Joining Forces to Meet the AI Interaction Challenge Workshop at CHI 2024, presentation, 2024.
 
 ### 2023
 - S. Ferguson, A. Olechowski “Enterprise Communication: A Naturalistic, Non-Intrusive Method for

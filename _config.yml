@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sharon Ferguson"
 title_separator          : "-"
 name                     : &name "Sharon Ferguson"
-description              : &description "PhD Candidate at the University of Toronto"
+description              : &description "Assistant Professor in Management Science and Engineering at the University of Waterloo"
 url                      : https://sharonferguson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sharonferguson/sharonferguson.github.io"
@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Sharon Ferguson"
   avatar           : "IMG_8534.jpeg"
-  bio              : "PhD Candidate in Mechanical and Industrial Engineering at the University of Toronto"
-  location         : "Toronto, ON"
+  bio              : "Assistant Professor in Management Science and Engineering at the University of Waterloo"
+  location         : "Waterloo, ON"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TXXTPIkAAAAJ&hl=en"

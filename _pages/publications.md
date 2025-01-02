@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## 2024
+- Ferguson, S.*, Aoyagui, PA., Rizvi, R., Kim, Y-H., Kuzminykh, A. The Explanation That Hits Home: The Characteristics of Verbal Explanations That Affect Human Perception in Subjective
+Decision-Making. Accepted to Proceedings of the ACM on Human-Computer Interaction (CSCW). [View here](https://dl.acm.org/doi/10.1145/3687056)
+- Naghshbandi, M., Ferguson, S., Olechowski, A. Social Capital and Persistence in Computer Science of Google’s Computer Science Summer Institute (CSSI) Students Accepted at the American Society of Engineering Education Annual Conference, 2024. [View here](https://peer.asee.org/authors/66978)
 - Ferguson, S.*, Massimi, M. Circle Back Next Week: The Effect of Meeting-Free Weeks on Distributed Workers’ Unstructured Time and Attention Negotiation. Accepted to the ACM Conference on Human Factors in Computing Systems (CHI), 2024. [View here](https://dl.acm.org/doi/full/10.1145/3613904.3642175)
 - Ferguson, S., Van de Zande, G., Olechowski, A. No Risk, No Reward: Towards An Automatedn Measure of Psychological Safety from Online Communication. ACM Conference on
 Human Factors in Computing Systems (CHI), Late Breaking Work, 2024. [View here](https://dl.acm.org/doi/full/10.1145/3613905.3650923)
@@ -48,9 +51,7 @@ Engineering Education annual conference, 2022 [View here](https://peer.asee.org/
 
 
 ## Accepted
-- Ferguson, S., Aoyagui, PA., Rizvi, R., Kim, Y-H., Kuzminykh, A. The Explanation That Hits Home: The Characteristics of Verbal Explanations That Affect Human Perception in Subjective
-Decision-Making. Accepted to Proceedings of the ACM on Human-Computer Interaction (CSCW).
-- Naghshbandi, M., Ferguson, S., Olechowski, A. Social Capital and Persistence in Computer Science of Google’s Computer Science Summer Institute (CSSI) Students Accepted at the American Society of Engineering Education Annual Conference, 2024
+
 
 
 
