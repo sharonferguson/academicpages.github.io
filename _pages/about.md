@@ -40,6 +40,7 @@ of Google’s Computer Science Summer Institute (CSSI) Students" was presented b
 - **June 2023:** Our work on Social Belonging Confidence in Machine Learning and Artificial Intelligence students was presented at the [American Society of Engineering Education Annual Conference 2023](https://peer.asee.org/just-a-little-bit-on-the-outside-for-the-whole-time-social-belonging-confidence-and-the-persistence-of-machine-learning-and-artificial-intelligence-students)
 - **June 2023:** Our work on remote work in the aerospace industry was published in [Systems Engineering](https://incose.onlinelibrary.wiley.com/doi/full/10.1002/sys.21716)
 - **June 2023:** I will start my role as a Future of Work PhD Reserarch Intern at Slack!
+
 <!-- - **April 2023:** We will be presenting a poster at CHI 2023 in Hamburg, Germany!
 - **March 2023:** Our paper "Are We Equal Online?: An Investigation of Gendered Language Patterns and Message Engagement on Enterprise Communication Platforms" was accepted to the 2023 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW).
 - **February 2023:** Our late-breaking work paper "Something Borrowed: Exploring the Influence of AI-Generated Explanation Text on the Composition of Human Explanations" was accepted to the 2023 ACM Conference on Human Factors in Computing Systems (CHI) conference. 
